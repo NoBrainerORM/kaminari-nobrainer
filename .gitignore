@@ -1,0 +1,10 @@
+Gemfile.lock
+*.swp
+.rbenv*
+todo
+*.gem
+.bundle
+coverage
+tmp
+tmp2
+tags
